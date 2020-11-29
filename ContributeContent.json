@@ -40,7 +40,8 @@
         "updating OS",
         "mixing pain away",
         "hacking bank machine",
-        "waiting for the city train"
+        "waiting for the city train",
+        "mixing pain away"
         
     ],
     "badGuys": [
@@ -67,7 +68,10 @@
         "street shark",
         "predator",
         "billionaire",
-        "gopnik"
+        "gopnik",
+        "cybernetic thug"
+        
+        
     ],
     "goodGuys": [
         "beggar",
@@ -144,7 +148,10 @@
         "Duke Nukem",
         "BeastMaster64",
         "Rasputin",
-        "D.O.G.E."
+        "D.O.G.E.",
+        "Bugger",
+        "Freeway Frank"
+        
     ],
     "greetings": [
         "hey",
@@ -228,6 +235,9 @@
         "graffiti-covered",
         "sprawling",
         "mossy"
+        "radioactive",
+        "dark"
+        
     ],
     "buildingTypes": [
         "building",
@@ -282,7 +292,11 @@
         "pagoda",
         "city hall",
         "embassy",
-        "consulate"
+        "consulate",
+        "fight school",
+        "medical lab",
+        "genetics lab"
+        
     ],
     "helmet": [
         "helmet",
@@ -321,6 +335,10 @@
         "stetson",
         "sun hat",
         "tricorne"
+        "nano helm",
+        "polymer helmet",
+        "silicon band"
+        
     ],
     "upperArmor": [
         "shirt",
@@ -356,7 +374,10 @@
         "nightshirt",
         "tube top",
         "onesie",
-        "camisole"
+        "camisole",
+        "nano vest",
+        "silicon vest"
+        
     ],
     "lowerArmor": [
         "pants",
@@ -388,7 +409,9 @@
         "high-waisted pants",
         "sailor pants",
         "bubble skirt",
-        "pleated skirt"
+        "pleated skirt",
+        "silicon cargo pants",
+        "elastic sweatpants"
     ],
     "boots": [
         "shoes",
@@ -416,7 +439,10 @@
         "patrol boots",
         "tech boots",
         "ninja tabis",
-        "monk shoes"
+        "monk shoes",
+        "nano boots",
+        "silicon boots"
+
         
     ]
 }
