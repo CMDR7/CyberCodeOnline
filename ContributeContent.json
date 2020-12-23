@@ -69,7 +69,12 @@
         "predator",
         "billionaire",
         "gopnik",
-        "cybernetic thug"
+        "cybernetic thug",
+        "nano junky",
+        "cyber security drone",
+        "gene spliced killer",
+        "demented scientist",
+        
         
         
     ],
@@ -150,7 +155,16 @@
         "Rasputin",
         "D.O.G.E.",
         "Bugger",
-        "Freeway Frank"
+        "Freeway Frank",
+        "Sara Conner",
+        "Frodo Buggins",
+        "Muno Simpson",
+        "Red Nano Dragon",
+        "Blue Nano Dragon",
+        "Techno Witch",
+        "Voodoo Scientist",
+        "Green Tech Mage",
+        "Complex Security Drone"
         
     ],
     "greetings": [
@@ -169,7 +183,9 @@
         "hey you",
         "hiya",
         "howdy partner",
-        "hemlo"
+        "hemlo",
+        "belo",
+        "guten tag"
     ],
     "needHelp": [
         "could you help?",
@@ -188,6 +204,7 @@
         "need a little help over here!",
         "got a sec?",
         "Want some?"
+        "I gotta job for you killer!",
     ],
     "filler": [
         "uhmm...",
@@ -207,6 +224,7 @@
         "y'know...",
         "*sneeze*",
         "*sips*"
+        "*looks nervously in each direction*"
     ],
     "buildingPrefix": [
         "the",
